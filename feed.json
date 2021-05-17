@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://myde1010.github.io/demo109-2/wei-suo-yu-wei.html",
-            "url": "https://myde1010.github.io/demo109-2/wei-suo-yu-wei.html",
-            "title": "為所昱瑋",
-            "summary": "hi",
-            "content_html": "<p>hi</p>",
-            "author": {
-                "name": "Minnie Yang"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-05-17T14:35:43+08:00",
-            "date_modified": "2021-05-17T14:36:28+08:00"
-        },
-        {
             "id": "https://myde1010.github.io/demo109-2/kuo-yi-shi-wo-lao-ban.html",
             "url": "https://myde1010.github.io/demo109-2/kuo-yi-shi-wo-lao-ban.html",
             "title": "擴屹是我老闆",
