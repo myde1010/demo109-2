@@ -3,7 +3,7 @@
     <title>技優成果展</title>
     <link href="https://myde1010.github.io/demo109-2/feed.xml" rel="self" />
     <link href="https://myde1010.github.io/demo109-2" />
-    <updated>2021-05-17T14:34:16+08:00</updated>
+    <updated>2021-05-17T14:54:01+08:00</updated>
     <author>
         <name>Minnie Yang</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://myde1010.github.io/demo109-2/kuo-yi-shi-wo-lao-ban.html"/>
         <id>https://myde1010.github.io/demo109-2/kuo-yi-shi-wo-lao-ban.html</id>
 
-        <updated>2021-05-17T14:34:16+08:00</updated>
+        <updated>2021-05-17T14:54:01+08:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <div style="width: 760px; height: 500px; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;">
-<div class="post__iframe"><iframe loading="lazy" width="800" height="500" src="https://drive.google.com/file/d/1AZYI9qj5-PpJPVMjoFZ_G1fO2Gw3yCDv/preview"></iframe></div>
+<figure class="post__image"><img loading="lazy"  src="https://myde1010.github.io/demo109-2/media/posts/1/78BD53F5-BE47-41D4-BF55-360BF5DFD524.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://myde1010.github.io/demo109-2/media/posts/1/responsive/78BD53F5-BE47-41D4-BF55-360BF5DFD524-xs.jpg 300w ,https://myde1010.github.io/demo109-2/media/posts/1/responsive/78BD53F5-BE47-41D4-BF55-360BF5DFD524-sm.jpg 480w ,https://myde1010.github.io/demo109-2/media/posts/1/responsive/78BD53F5-BE47-41D4-BF55-360BF5DFD524-md.jpg 768w"  alt="" width="430" height="574"></figure><div class="post__iframe"><iframe loading="lazy" width="800" height="500" src="https://drive.google.com/file/d/1AZYI9qj5-PpJPVMjoFZ_G1fO2Gw3yCDv/preview"></iframe></div>
 </div>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1xWjGMX76zNC1-qJQPNlu0UB1dO55sqA9/preview"></iframe></div>
             ]]>
