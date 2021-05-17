@@ -3,12 +3,24 @@
     <title>技優成果展</title>
     <link href="https://myde1010.github.io/demo109-2/feed.xml" rel="self" />
     <link href="https://myde1010.github.io/demo109-2" />
-    <updated>2021-05-17T13:57:43+08:00</updated>
+    <updated>2021-05-17T14:35:43+08:00</updated>
     <author>
         <name>Minnie Yang</name>
     </author>
     <id>https://myde1010.github.io/demo109-2</id>
 
+    <entry>
+        <title>為所昱瑋</title>
+        <author>
+            <name>Minnie Yang</name>
+        </author>
+        <link href="https://myde1010.github.io/demo109-2/wei-suo-yu-wei.html"/>
+        <id>https://myde1010.github.io/demo109-2/wei-suo-yu-wei.html</id>
+
+        <updated>2021-05-17T14:35:43+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>擴屹是我老闆</title>
         <author>
@@ -17,7 +29,7 @@
         <link href="https://myde1010.github.io/demo109-2/kuo-yi-shi-wo-lao-ban.html"/>
         <id>https://myde1010.github.io/demo109-2/kuo-yi-shi-wo-lao-ban.html</id>
 
-        <updated>2021-05-17T13:57:43+08:00</updated>
+        <updated>2021-05-17T14:34:16+08:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -25,7 +37,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="800" height="500" src="https://drive.google.com/file/d/1AZYI9qj5-PpJPVMjoFZ_G1fO2Gw3yCDv/preview"></iframe></div>
+                <div style="width: 760px; height: 500px; overflow: scroll !important; -webkit-overflow-scrolling: touch !important;">
+<div class="post__iframe"><iframe loading="lazy" width="800" height="500" src="https://drive.google.com/file/d/1AZYI9qj5-PpJPVMjoFZ_G1fO2Gw3yCDv/preview"></iframe></div>
+</div>
 <div class="post__iframe"><iframe loading="lazy" width="640" height="480" src="https://drive.google.com/file/d/1xWjGMX76zNC1-qJQPNlu0UB1dO55sqA9/preview"></iframe></div>
             ]]>
         </content>
